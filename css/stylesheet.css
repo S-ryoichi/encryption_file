@@ -1,0 +1,34 @@
+html{
+    margin: 0px 10px;
+}
+
+.button_style{
+    font-size: large;
+}
+
+#header{
+    display: flex;
+    justify-content: space-around;
+}
+
+#body{
+    display: flex;
+    justify-content: space-around;
+}
+
+#drop_zone{
+    border: 1px solid;
+    display: flex;
+    align-content: space-around;
+    flex-direction: column;
+    padding: 20px 50px;
+}
+
+#button_zone{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#footer{
+    display: flex;
+}
