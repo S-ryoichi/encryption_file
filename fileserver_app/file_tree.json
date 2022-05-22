@@ -1,0 +1,18 @@
+[{"type":"directory","name": ".","contents":[
+    {"type":"file","name":"confirm_color.py"},
+    {"type":"file","name":"confirm_color.py.hoge"},
+    {"type":"directory","name":"dummy_file","contents":[
+      {"type":"file","name":"JFLEX壁面.jpg"},
+      {"type":"file","name":"JFLEX壁面.jpg.hoge"},
+      {"type":"file","name":"JFLEX壁面_dec.jpg"},
+      {"type":"file","name":"test01.txt"},
+      {"type":"file","name":"test01.txt.hoge"},
+      {"type":"file","name":"test02.txt"},
+      {"type":"file","name":"test11.txt"}
+    ]},
+    {"type":"file","name":"file_tree.json"},
+    {"type":"file","name":"key.txt"},
+    {"type":"file","name":"upload.py"}
+  ]},
+  {"type":"report","directories":1,"files":12}
+]
